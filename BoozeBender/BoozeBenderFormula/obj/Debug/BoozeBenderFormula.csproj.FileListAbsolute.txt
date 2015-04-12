@@ -1,0 +1,6 @@
+C:\Code\Alpha\BoozeBender\BoozeBenderFormula\bin\Debug\BoozeBenderFormula.exe.config
+C:\Code\Alpha\BoozeBender\BoozeBenderFormula\bin\Debug\BoozeBenderFormula.exe
+C:\Code\Alpha\BoozeBender\BoozeBenderFormula\bin\Debug\BoozeBenderFormula.pdb
+C:\Code\Alpha\BoozeBender\BoozeBenderFormula\obj\Debug\BoozeBenderFormula.csprojResolveAssemblyReference.cache
+C:\Code\Alpha\BoozeBender\BoozeBenderFormula\obj\Debug\BoozeBenderFormula.exe
+C:\Code\Alpha\BoozeBender\BoozeBenderFormula\obj\Debug\BoozeBenderFormula.pdb
